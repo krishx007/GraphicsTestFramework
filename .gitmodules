@@ -1,0 +1,3 @@
+[submodule "Assets/GraphicsTestFramework_Base"]
+	path = Assets/GraphicsTestFramework_Base
+	url = https://github.com/Unity-Technologies/GraphicsTestFramework_Base.git
